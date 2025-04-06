@@ -2,5 +2,12 @@ nav {
     width: 100px;
     height: 100px;
     padding: 20px;
+    margin: 1000px;
+}
+
+template {
+    width: 100px;
+    height: 100px;
+    padding: 20px;
     margin: 40px;
 }
